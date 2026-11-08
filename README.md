@@ -11,7 +11,7 @@ Laboratorio personal para aprender operaciones de seguridad (SOC): monitoreo, de
 | Red | Adaptador puente (Internet) + red solo-anfitrión con IP fija 192.168.56.10 |
 | Visibilidad | Agente de Wazuh + Sysmon en Windows *(semana 2)* |
 
-![Dashboard de Wazuh](img/dashboard-wazuh.png)
+[Dashboard de Wazuh]
 
 ## Avance
 
@@ -29,4 +29,4 @@ Wazuh · Ubuntu Server · VirtualBox · SSH · tmux · netplan · Sysmon
 
 ## Sobre mí
 
-Estoy formándome como analista SOC (Blue Team).
+Estoy formándome como analista SOC (Blue Team) [LinkedIn](https://www.linkedin.com/in/geiner-casamachin-bb9a39126/)
